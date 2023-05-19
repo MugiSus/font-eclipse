@@ -2,7 +2,7 @@
 
 ![](https://github.com/MugiSus/font-eclipse/blob/main/Eclipse-Poster.png)
 
-[donwload .pdf](https://github.com/MugiSus/font-eclipse/raw/main/Eclipse-Poster.pdf)/
+[donwload .pdf](https://github.com/MugiSus/font-eclipse/raw/main/Eclipse-Poster.pdf) \
 [donwload .otf](https://github.com/MugiSus/font-eclipse/raw/main/Eclipse-Regular.otf)
 
 Eclipse is a newborn typeface based on a completely unified radius of circles and the width of vertical lines, which gives both noble and industrial imprints.
